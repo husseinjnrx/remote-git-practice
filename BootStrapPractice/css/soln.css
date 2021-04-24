@@ -1,0 +1,19 @@
+div#header {
+background-color: #DDF;
+height: 100px;
+}
+div#main {
+border: solid 2px blue;
+margin-left: 100px;
+min-height: 300px;
+}
+div#sidebar {
+background-color: #0FF;
+width: 80px;
+position: absolute;
+top: 110px;
+min-height: 300px;
+}
+div#footer {
+border: 2px solid red;
+}

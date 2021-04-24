@@ -1,0 +1,40 @@
+.contentall{
+ background-color: grey;
+ height: 100px;
+ border-color: none;
+ border-radius: 0px;
+ text-align: right;
+ border:none;
+  margin-bottom: 0px;
+
+}
+
+
+.orangeguys{
+
+	background-color: #ff8c00;
+}
+
+.content3g { 
+ background-color: #C0C0C0;
+ height: 100px;
+ border-color: black;
+ border-radius: 0px;
+ text-align: right;
+ border:ridge grey;
+ border-width: thin;
+ margin-bottom: 0px;
+}
+
+h2{
+	color: white;
+	font-weight: bold;
+}
+
+
+h1{
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
